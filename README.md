@@ -5,9 +5,10 @@ In the context of user interface (UI) design and web development, "stripe sub me
 
 Examples
 
-Visual Example:
-Striped Background: A dropdown menu where each item alternates in color (e.g., white, grey, white, grey).
-Single Row/Column Layout: A navigation bar with sub-menu items laid out in a single horizontal stripe.
+1.  Visual Example:
+    Striped Background: A dropdown menu where each item alternates in color (e.g., white, grey, white, grey).
+    Single Row/Column Layout: A navigation bar with sub-menu items laid out in a single horizontal stripe.
 
-Functionality Example:
-Hovering over a main menu item like "Services" might reveal a stripe of sub-menu items below it, such as "Consulting," "Development," and "Support," all laid out in a single horizontal line.
+2.   Functionality Example:
+     Hovering over a main menu item like "Services" might reveal a stripe of sub-menu items below it, such as "Consulting," "Development," and "Support," all laid out in a 
+     single horizontal line.
