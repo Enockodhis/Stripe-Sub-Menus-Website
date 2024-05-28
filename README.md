@@ -1,5 +1,6 @@
 # Stripe-Sub-Menus-Website
-In the context of user interface (UI) design and web development, "stripe sub menus" likely refer to a specific design pattern for navigation menus. It can refer to either a visual style or a functional design pattern aimed at improving the user experience in navigation. Here is a hyperlink to this website: 
+In the context of user interface (UI) design and web development, "stripe sub menus" likely refer to a specific design pattern for navigation menus. It can refer to either a visual style or a functional design pattern aimed at improving the user experience in navigation. Here is a hyperlink to this website: https://stripesubmenuswebsite.netlify.app/
+
 
 ![image](https://github.com/Enockodhis/Stripe-Sub-Menus-Website/assets/107674019/1da1fdd5-85d4-450c-90cb-afff0b4aef4f)
 
